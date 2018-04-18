@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 18, 2018
 
 ### Student Name:  
-(First and Last Name)
+Aubrey Parrish 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment teaches you how to create an online movie database application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://atp15b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to build an application using an Application Program Interface (API).
+2. I learned how to parse JSON data from an HTTP response message. 
+3. I learned how to use Ajax methods and properties that allow the Client to send an HTTP Request and receive back an HTTP Response.
